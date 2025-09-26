@@ -27,7 +27,7 @@ nav a {
 }
 
 .hero {
-  background-image: url('../images/SYJ\ BG.jpg'); /* Update the file name if needed */
+  background-image: url('SYJ BG.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
